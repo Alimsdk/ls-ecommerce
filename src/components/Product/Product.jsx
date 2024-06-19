@@ -1,3 +1,4 @@
+import PropTypes from 'prop-types'
 
 const Product = ({product,handleAddToCart}) => {
     const {image,name,price,brand}=product;
@@ -11,5 +12,10 @@ const Product = ({product,handleAddToCart}) => {
         </div>
     );
 };
+
+Product.propTypes={
+    product:PropTypes.object.isRequired,
+    handleAddToCart:PropTypes.func.isRequired
+}
 
 export default Product;

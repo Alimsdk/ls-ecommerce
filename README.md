@@ -1,6 +1,6 @@
-# React + Vite
+# Shoe selling Ecommerce Site using local storage
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+I created a site which sells shoes ! For frontend, I used ReactJS ! I used Local Storage as Database !! Here A user can add to cart their favourite items and It will be saved on Local storage so even if you reload the data won't be disappeared !
 
 Currently, two official plugins are available:
 

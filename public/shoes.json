@@ -1,0 +1,72 @@
+[
+    { 
+      "id":1,
+      "name": "Nike Air Max",
+      "image": "nike_air_max.jpg",
+      "brand": "Nike",
+      "price": 120
+    },
+    { 
+      "id":2,
+      "name": "Adidas Ultraboost",
+      "image": "adidas_ultraboost.jpg",
+      "brand": "Adidas",
+      "price": 180
+    },
+    { 
+      "id":3,
+      "name": "Puma RS-X",
+      "image": "puma_rsx.jpg",
+      "brand": "Puma",
+      "price": 110
+    },
+    { 
+      "id":4,
+      "name": "Reebok Classic",
+      "image": "reebok_classic.jpg",
+      "brand": "Reebok",
+      "price": 75
+    },
+    { 
+      "id":5,
+      "name": "New Balance 574",
+      "image": "new_balance_574.jpg",
+      "brand": "New Balance",
+      "price": 80
+    },
+    { 
+      "id":6,
+      "name": "Asics Gel-Kayano",
+      "image": "asics_gel_kayano.jpg",
+      "brand": "Asics",
+      "price": 160
+    },
+    { 
+      "id":7,
+      "name": "Under Armour HOVR",
+      "image": "under_armour_hovr.jpg",
+      "brand": "Under Armour",
+      "price": 140
+    },
+    { 
+      "id":8,
+      "name": "Skechers Go Walk",
+      "image": "skechers_go_walk.jpg",
+      "brand": "Skechers",
+      "price": 60
+    },
+    { 
+      "id":9,
+      "name": "Converse All Star",
+      "image": "converse_all_star.jpg",
+      "brand": "Converse",
+      "price": 55
+    },
+    { 
+      "id":10,
+      "name": "Vans Old Skool",
+      "image": "vans_old_skool.jpg",
+      "brand": "Vans",
+      "price": 65
+    }
+  ]

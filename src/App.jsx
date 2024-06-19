@@ -1,10 +1,11 @@
 import './App.css'
+import Products from './components/Products/Products'
 
 function App() {
  
   return (
     <>
-    <h3>Hello from react</h3>
+    <Products/>
     </>
   )
 }
